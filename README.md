@@ -1,0 +1,2 @@
+# Legolas
+Hexo theme
